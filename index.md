@@ -408,3 +408,9 @@ Law student at National Taiwan University. Pythonista. FLOSS advocate. Founder o
 @RSChiang on [Plurk](https://www.plurk.com/RSChiang) or on [Twitter](https://twitter.com/RSChiang)
 
 [Personal Website](http://poren.tw)
+
+## [Damien Riehl](https://github.com/damienriehl)
+
+Lawyer in Minneasota. 
+
+[LinkedIn](https://www.linkedin.com/en/damienriehl)
